@@ -39,7 +39,7 @@ Enough of this talk! Show me the code!!
 ```html
 <head>
   <title>Our Website</title>
-  <script src="https://cdn.wallit.com/paywall.min.js"></script>
+  <script src="https://cdn.wallit.io/paywall.min.js"></script>
   <script type="text/javascript">
     wallit.paywall.init('b865156f-9e0d-48b6-a2a0-097456f689ec');
   </script>
