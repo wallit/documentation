@@ -794,7 +794,7 @@ wallit.paywall.init('b865156f-9e0d-48b6-a2a0-097456f689ec', {
             $('article').html(data);
         });
     }
-});
+}); 
 ```
 
 ## What's Next?
